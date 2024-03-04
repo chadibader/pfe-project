@@ -1,0 +1,30 @@
+.imgContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.img{
+    width: 13rem;
+}
+.logo{
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+.text{
+    text-align: center;
+    font-size: 0.8rem;
+}
+.btn{
+    text-align: center;
+    justify-content: center;
+}
+.butn{
+    color: rgb(255, 255, 255);
+    background-color: #0560FC;
+    padding: 0.6rem 3.6rem;            
+    border: none;             
+    border-radius: 0.4375rem;        
+    cursor: pointer; 
+}
